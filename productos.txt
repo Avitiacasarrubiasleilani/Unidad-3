@@ -1,0 +1,5 @@
+8|blusa negra|100|ropa deportiva
+5|tenis nike|2500|tenis deportivos
+7|pantalon negro|500|ropa deportiva
+9|gorra nike|150|accesorios deportivos
+1|sudadera nike|650|ropa deportiva
