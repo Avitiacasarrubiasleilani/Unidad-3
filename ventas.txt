@@ -1,0 +1,5 @@
+gorra nike|150.0|2|300.0
+blusa negra|100.0|3|300.0
+pantalon negro|500.0|2|1000.0
+gorra nike|150.0|4|600.0
+sudadera nike|650.0|3|1950.0
